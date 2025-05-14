@@ -1,0 +1,35 @@
+body {
+    background: fixed;
+    background-color: rgb(46, 68, 77);
+ }
+
+ .up{
+    background: fixed;
+    background-color: rgb(143, 145, 146);
+    height: 50px;
+    width: 100%;
+   text-align: center;
+   padding-top: 20px;
+   border-radius: 5px;
+ }
+
+ .yu {
+    font: bold;
+    color: rgb(18, 28, 32);
+    background-color: rgb(106, 134, 119);
+    text-decoration: none;
+    height: 25px;
+    border-radius: 5px;
+    margin-left: 5px;
+    padding: 5px;
+ }
+
+ .paragraphh3{
+    color: rgb(171, 194, 181);
+ }
+
+ .pop{
+    margin-top: 150px;
+    text-align: center;
+    color: rgb(171, 194, 181);
+ }
